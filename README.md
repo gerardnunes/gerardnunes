@@ -22,10 +22,6 @@ Explorando análise de dados, machine learning, automação de processos e story
 
 ---
 
-## 📈 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerardnunes&show_icons=true&theme=radical)  
-
----
 
 ## 📫 **Vamos nos conectar!**  
 - 🌐 [**Kaggle**](https://www.kaggle.com/gerardnunes)  
